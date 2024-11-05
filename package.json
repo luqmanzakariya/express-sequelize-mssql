@@ -1,0 +1,20 @@
+{
+  "name": "express-sequelize-mssql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "luqmanzakariya",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luqmanzakariya/express-sequelize-mssql"
+  },
+  "bugs": {
+    "url": "https://github.com/luqmanzakariya/express-sequelize-mssql/issues"
+  },
+  "homepage": "https://github.com/luqmanzakariya/express-sequelize-mssql#readme"
+}
