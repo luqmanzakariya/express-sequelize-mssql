@@ -1,4 +1,4 @@
-# Bappenas Quiz Service
+# Express Sequelize with MSSQL Service
 This is a RESTful API built using NodeJS.
 
 
