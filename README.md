@@ -1,13 +1,20 @@
 # Express Sequelize with MSSQL Service
-This is a RESTful API built using NodeJS.
+This is a RESTful API built using Express Sequelize and MSSQL Database.
 
 
 ## Running on local
-### 1. Install dependencies:
+### 1. Setup database:
 ```console
-npm install
+- Install docker on your local machine
+- Go to .docker directory
+- run: docker compose up -d
+```
+### 2. Install dependencies:
+```console
+- Go to the root directory
+- run: npm install
 ```
 ### 2. Run the application:
 ```console
-npm run dev
+- run: npm run dev
 ```
